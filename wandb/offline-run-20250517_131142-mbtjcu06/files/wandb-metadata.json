@@ -1,0 +1,37 @@
+{
+  "os":  "Linux-6.1.123+-x86_64-with-glibc2.35",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-05-17T13:11:42.373989Z",
+  "program":  "/content/drive/MyDrive/email_ai_assistant/src/train_classifier.py",
+  "codePath":  "src/train_classifier.py",
+  "root":  "/content/drive/MyDrive/email_ai_assistant",
+  "host":  "05762ca21a12",
+  "executable":  "/usr/bin/python3",
+  "codePathLocal":  "src/train_classifier.py",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "gpu":  "Tesla T4",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "120942624768",
+      "used":  "37836419072"
+    }
+  },
+  "memory":  {
+    "total":  "13608370176"
+  },
+  "cpu":  {
+    "count":  1,
+    "countLogical":  2
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Tesla T4",
+      "memoryTotal":  "16106127360",
+      "cudaCores":  2560,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.4"
+}
